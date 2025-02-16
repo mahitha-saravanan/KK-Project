@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+#kk 5.0 Management Dashboard
 
 ## Getting Started
 
